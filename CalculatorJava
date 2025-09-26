@@ -1,22 +1,32 @@
 class CalculatorF0rt {
 
     // This is a calculator
-    
+
+    // Addition "+"
+
     float addition(float x, float y) {
         return x + y;
     }
+
+    // Substraction "-"
 
     float subtraction(float x, float y) {
         return x - y;
     }
 
+    // Multiplication "*"
+
     float multiplication(float x, float y) {
         return x * y;
     }
 
+    // Division "/"
+
     float division(float x, float y) {
         return x / y;
     }
+
+    // Mod 
 
     float mod(float x, float y){
         return x % y;
