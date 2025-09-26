@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1758829841 source:d:\moja\inf\laba4\main.cpp
+	<math.h>
+	<stdio.h>
+	<clocale>
+	<iostream>
+
